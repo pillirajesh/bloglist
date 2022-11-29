@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.blog-item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blog-item-heading {
+  color: #12022f;
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.blog-item-paragraph {
+  color: #9aa5b1;
+  font-family: 'roboto';
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.list-container {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.description {
+  color: #616e7c;
+  font-family: 'roboto';
+  font-weight: 400;
+  font-size: 16px;
+}
